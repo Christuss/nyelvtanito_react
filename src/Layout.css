@@ -1,0 +1,16 @@
+header {
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+
+}
+nav {
+    padding: 10px;
+}
+body {
+    width: 90%;
+    margin: auto;
+    
+}
